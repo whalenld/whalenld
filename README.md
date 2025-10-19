@@ -11,3 +11,5 @@ I'm not concerned with its general use in large organizations or scalability. I 
 Being able to specify context using _Spaces_ and their availablity in _GitHub Free_ is one factor supporting this usage of my time.
 
 I have also seen AI explain code I have written in clear language. If nothing else, using AI to refresh my memory about an old project is valuable.
+
+Grouping code to keep like sections together adds comments and makes choices about grouping. This is easier. It reduces decision making in somewhat arbitrary groupings. As long as the choices made make sense this is a lot of effort removed from coding. Will need to find an effective way to see a list of arbitrary choices made.
