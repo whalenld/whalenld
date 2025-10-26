@@ -15,3 +15,5 @@ I have also seen AI explain code I have written in clear language. If nothing el
 Grouping code to keep like sections together adds comments and makes choices about grouping. This is easier. It reduces decision making in somewhat arbitrary groupings. As long as the choices made make sense this is a lot of effort removed from coding. Will need to find an effective way to see a list of arbitrary choices made.
 
 Easy to use git. Will have to try with a fine tooth comb on a personal project.
+
+I was able to follow the agent (not agentic) coding tutorial and have the system build a running React app. I have never used React before. I'm not certain I have even visitied the website. I have heard people talking about it.
